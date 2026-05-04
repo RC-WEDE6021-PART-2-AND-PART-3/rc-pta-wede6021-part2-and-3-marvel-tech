@@ -1,0 +1,5 @@
+Kagiso Maluleka,k.maluleka@webmail.co.za,29ef52e7563626a96cea7f4b4085c124,123 Jan Smuts Ave, Sandton, Johannesburg
+Lerato Mdluli,l.mdluli@gmail.com,29ef52e7563626a96cea7f4b4085c124,45 Burnett St, Hatfield, Pretoria
+Thabo Molefe,t.molefe@outlook.com,29ef52e7563626a96cea7f4b4085c124,88 Vilakazi St, Soweto, Johannesburg
+Phuti Mabena,p.mabena@iafrica.com,29ef52e7563626a96cea7f4b4085c124,12 Midrand Estate, Olifantsfontein, Midrand
+Zanele Gumede,z.gumede@telkomsa.net,29ef52e7563626a96cea7f4b4085c124,99 Republic Rd, Randburg, Johannesburg

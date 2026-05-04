@@ -1,0 +1,30 @@
+Manchester United,850.00,2023/24 Home Jersey,Manchester United.jpeg
+Kaizer Chiefs,750.00,Gold Classic Jersey,chiefs.jpeg
+Orlando Pirates,750.00,Black Shadow Edition,Orlando pirates.jpeg
+Mamelodi Sundowns,700.00,The Brazilians Home,Mamelodi Sundowns.jpeg
+Liverpool,800.00,Anfield Red Jersey,Liverpool.jpeg
+Arsenal,800.00,Gunners Home Kit,arsenal.jpeg
+Chelsea,800.00,Blues Home Jersey,chelsea.jpeg
+Man city,850.00,Sky Blue Citizens Kit,Man city.jpeg
+Real Madrid,900.00,Galacticos White Jersey,Real Madrid.jpeg
+Barcelona,900.00,Catalan Pride Jersey,Barcelona.jpeg
+PSG,850.00,Parisian Blue Kit,PSG.jpg
+Bayern Munich,800.00,Bavarian Red Jersey,Bayern Munich.jpeg
+Juventus,800.00,Old Lady Stripes,Juventus.jpeg
+AC Milan,750.00,Rossoneri Classic,AC Milen.jpeg
+Inter Milan,750.00,Nerazzurri Stripes,Inter Milan.jpeg
+Tottenham,700.00,Spurs Home Kit,Tottenham.jpeg
+Bayer leverkusen,750.00,Champions Edition,Bayer leverkusen.jpeg
+Dortmund,750.00,Yellow Wall Jersey,Dortmund.jpeg
+Ajax Cape Town,600.00,Urban Warriors Home,Ajax Cape Town.jpeg
+Siwelele,600.00,Phunya Sele Sele Green,Siwelele.jpeg
+Golden Arrows,550.00,Abafana Besthende,Golden Arrows.jpeg
+Cape Town City,650.00,Citizens Blue Jersey,Cape Town City.jpeg
+Newcastle,750.00,Magpies Black & White,Newcastle.jpeg
+Aston Villa,700.00,Villans Home Jersey,Aston Villa.jpeg
+Atletico Madrid,800.00,Rojiblancos Stripes,Atletico Madrid.jpeg
+Napoli,750.00,Partenopei Sky Blue,Napoli.jpeg
+Boca Juniors,850.00,Argentine Classic,Boca Juniors.jpeg
+Al Nassr,950.00,Ronaldo 7 Edition,Al Nassr.jpeg
+Inter Miami,950.00,Messi 10 Pink Edition,Inter Miami.jpeg
+Bafana Bafana,800.00,National Pride Kit,Bafana Bafana.jpeg
